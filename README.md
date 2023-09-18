@@ -1,2 +1,3 @@
-# latex_test
-Testing out latex, isn't this cool?
+# Latex Test
+
+Hello, just testing things out for some latex. This looks pretty cool. 
